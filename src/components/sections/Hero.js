@@ -50,10 +50,10 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-0 reveal-from-bottom" data-reveal-delay="400">
-                5000 Galaxy Fighters Kongz contesting Solana Metaverse.
+              5,000 Kongz fighting across the galaxy! We are a community driven project with dreams of innovating and becoming a well known project in the solana ecosystem!
               </p>
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                A Solana chain NFT Project.
+                -
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
 

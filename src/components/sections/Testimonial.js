@@ -67,11 +67,12 @@ const Testimonial = ({
                 alt="Hero"
                 width={896}
                 height={504} />
+                <p className='mb-0' style={{fontSize:'15px', lineHeight:'110%'}} > A crypto investor since 2020 I became hooked on NFTs immediately upon entering the space. Inspired by the strong communities of cryptomories and kaiju kingz I am commited to contributing to the space. I purchased this project admist abandonment from the original founder in order to save the great community found here. I'm excited and optimistic beginning this endavour to provide value & memories to all supporters who share our vision. </p>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                   <span className="testimonial-item-name text-color-high">Kyle B</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">Project Manager</a>
+                    <a href="#0">Owner-Community Manager</a>
                   </span>
                 </div>
               </div>
@@ -81,38 +82,21 @@ const Testimonial = ({
               <div className="tiles-item-inner">
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/kongzcollage.jpg')}
+                src={require('./../../assets/images/teamimage2.jpg')}
                 alt="Hero"
                 width={896}
                 height={504} />
+                                <p className='mb-0' style={{fontSize:'15px', lineHeight:'110%'}} > Utilizing strong sales and marketing skills acquried during my time obtaining a Bachelors Degree in Management & a Masters Degree in Legal Studies I strive to transform this project into a brand. Expanding my skillset as a top performer of a Fortune 500 SaaS company I enjoy marketing, making connections, and staying in touch with industry trends.</p>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Member 2</span>
+                  <span className="testimonial-item-name text-color-high">Jbala</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">Position</a>
+                    <a href="#0">Project Manager-Marketing</a>
                   </span>
                 </div>
               </div>
             </div>
-
-            <div className="tiles-item reveal-from-left" data-reveal-delay="200">
-              <div className="tiles-item-inner">
-              <Image
-                className="has-shadow"
-                src={require('./../../assets/images/kongzcollage.jpg')}
-                alt="Hero"
-                width={896}
-                height={504} />
-                <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Member 3</span>
-                  <span className="text-color-low"> / </span>
-                  <span className="testimonial-item-link">
-                    <a href="#0">Position</a>
-                  </span>
-                </div>
-              </div>
-            </div>
-
+            
           </div>
         </div>
       </div>

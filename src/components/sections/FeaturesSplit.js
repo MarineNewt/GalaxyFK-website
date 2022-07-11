@@ -70,10 +70,10 @@ const FeaturesSplit = ({
                   Roadmap Goal 1
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Staking
+                  Establish Brand and Release Merch
                   </h3>
                 <p className="m-0">
-                  Stake you Galaxy Fighter Kongz to earn further rewards as an active part of the community and an avid holder. Staking mechanisms are in the works and coming to the collection very soon!
+                  Getting the Galaxy Kongz up and running we intend to jumpstart the brand with fresh marketing and an improved community rework. In addition to branding upgrades we will be dropping a merch colelction to allow members to show their pride while spreading the Galaxy Kongz name.
                 </p>
               </div>
               <div className={
@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/Stakingdiagram.png')}
+                  src={require('./../../assets/images/merch.png')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -96,11 +96,11 @@ const FeaturesSplit = ({
                   Roadmap Goal 2
                   </div>
                 <h3 className="mt-0 mb-12">
-                  (Goal 2)
+                  Baby Kongz
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                  The Galaxy Kongz universe appears to be expanding! A new collection with unique utilities will be introduced soon, celebrating the youth of the Galaxy Kongz.
+                </p>
               </div>
               <div className={
                 classNames(
@@ -109,7 +109,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/Stakingdiagram.png')}
+                  src={require('./../../assets/images/babykong.png')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -122,10 +122,10 @@ const FeaturesSplit = ({
                   Roadmap Goal 3
                   </div>
                 <h3 className="mt-0 mb-12">
-                  (Goal 3)
+                  Staking
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Stake your Galaxy Fighter Kongz to earn further rewards as an active part of the community and an avid holder. Staking mechanisms are in the works and coming to the collection soon!
                   </p>
               </div>
               <div className={
@@ -136,6 +136,32 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item">
                 <Image
                   src={require('./../../assets/images/Stakingdiagram.png')}
+                  alt="Features split 03"
+                  width={528}
+                  height={396} />
+              </div>
+            </div>
+
+            <div className="split-item">
+              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                  Roadmap Goal 4
+                  </div>
+                <h3 className="mt-0 mb-12">
+                  Galaxy Fighter Kongz Game
+                  </h3>
+                <p className="m-0">
+                  Our future plans include the creation of a Galaxy Fighter Kongz game with donkey kong style mechanics under an appealing Galaxy Kongz space pixel theme.
+                  </p>
+              </div>
+              <div className={
+                classNames(
+                  'split-item-image center-content-mobile reveal-from-bottom',
+                  imageFill && 'split-item-image-fill'
+                )}
+                data-reveal-container=".split-item">
+                <Image
+                  src={require('./../../assets/images/gameimage.png')}
                   alt="Features split 03"
                   width={528}
                   height={396} />
