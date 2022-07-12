@@ -125,7 +125,7 @@ const FeaturesSplit = ({
                   Staking
                   </h3>
                 <p className="m-0">
-                Stake your Galaxy Fighter Kongz to earn further rewards as an active part of the community and an avid holder. Staking mechanisms will begin being developed following the relsaese of Baby Kongz, so keep your eye out!
+                Stake your Galaxy Fighter Kongz to earn further rewards as an active part of the community and an avid holder. Staking mechanisms will begin being developed following the release of Baby Kongz, so keep your eye out!
                   </p>
               </div>
               <div className={
