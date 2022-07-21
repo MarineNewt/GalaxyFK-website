@@ -125,7 +125,7 @@ const FeaturesSplit = ({
                   Staking
                   </h3>
                 <p className="m-0">
-                Stake your Galaxy Fighter Kongz to earn further rewards as an active part of the community and an avid holder. Staking mechanisms will begin being developed following the release of Baby Kongz, so keep your eye out!
+                Stake your Galaxy Fighter Kongz to earn further rewards as an active part of the community and an avid holder. A staking site will be built to allow stakers to enter raffles for NFTs, whitelists, as well as physical goods. Staking mechanisms will begin being developed following the release of Baby Kongz, so keep your eye out!
                   </p>
               </div>
               <div className={
@@ -148,10 +148,10 @@ const FeaturesSplit = ({
                   Roadmap Goal 4
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Galaxy Fighter Kongz Game
+                  The Beyond
                   </h3>
                 <p className="m-0">
-                  The ultimate goal of the Galaxy Kongz collection under sufficent funding includes plans for the creation of a Galaxy Fighter Kongz game with donkey kong style mechanics under an appealing Galaxy Kongz space pixel theme.
+                  The journey doesn't stop here. The team will continue exapnding Galaxy Fighter Kongz and exploring all available options to bring value to Galaxy Kong holders and strengthen the ecostem.
                   </p>
               </div>
               <div className={
