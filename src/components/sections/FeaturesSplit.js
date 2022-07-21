@@ -151,7 +151,7 @@ const FeaturesSplit = ({
                   The Beyond
                   </h3>
                 <p className="m-0">
-                  The journey doesn't stop here. The team will continue exapnding Galaxy Fighter Kongz and exploring all available options to bring value to Galaxy Kong holders and strengthen the ecostem.
+                  The journey doesn't stop here. The team will continue exapnding Galaxy Fighter Kongz and exploring all available options to bring value to Galaxy Kong holders and strengthen the ecosystem.
                   </p>
               </div>
               <div className={
